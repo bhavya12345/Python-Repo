@@ -1,3 +1,9 @@
+# Data Mining And Sentiment Analysis For Twitter Data
+
+## Libraries Used
+* Tweepy - For the extraction of the tweets from Twitter
+* TextBlob - For performing the Sentiment Analysis On Tweets
+
 The csv files generated after running the code in the given project are as follows:
 
 1.	realdonaldtrump_tweets.csv (all tweets written from Donald Trump Profile after 2016)
