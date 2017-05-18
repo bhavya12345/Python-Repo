@@ -1,3 +1,8 @@
+# Stock Price Prediction In Python
+
+## Library Used
+scikit-learn
+
 This is a basic project for Stock Price prediction of 3 companies namely Google, Apple and Facebook using the Regression Models.
 
 The data for the stock prices of the company for the last one year has been taken up from Google Finance.
