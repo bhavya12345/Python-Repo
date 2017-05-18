@@ -39,7 +39,7 @@ http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
-## Algorithms Used (from sikit-learn library)
+## Algorithms Used (from scikit-learn library)
 The following Machine Learning Algorithms have been implemented on them: 
 
 1.K-Nearest Neighbors 
