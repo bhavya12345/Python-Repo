@@ -1,8 +1,14 @@
+# Movie Recommender With Graphlab
+
 This project is for a basic movie recommender in Python using graphlab library.
+
+## Dataset Link
 
 The dataset for the movies, users and user ratings has been taken from the following link:
 
  http://grouplens.org/datasets/movielens/100k/
+
+## Dataset Features
 
 The following are the features of this dataset:
 
@@ -14,11 +20,15 @@ The following are the features of this dataset:
    
 4. Genre information of movies
 
+## Recommendations
+
 2 types of recommendations have been used and compared in this project:
 
 1. Popularity Based Recommendations
 
 2. Item Based Recommendations
+
+## Types Of Similarity
 
 For item based recommendations also, 3 similarity functions have been considered:
 
