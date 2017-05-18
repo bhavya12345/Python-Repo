@@ -1,3 +1,5 @@
+# Neural Network Implementation From Scratch
+
 The given file aims to build up a Neural Network from scratch which uses Sigmoid Function as the activation function.
 
 The input variables and the output labels have been taken by myself on my own to illustrate the working of the Neural Network. Initially, the synaptic weights of each layer are assigned random values which are gradually updated in each iteration of the Gradient Descent algorithm.
