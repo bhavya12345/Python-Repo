@@ -1,3 +1,10 @@
+# Comparing Different Machine Learning Algorithms on Different Datasets
+
+## Library Used
+scikit-learn
+
+## Datasets Used
+
 The following are the links of different datasets which have been used in the project:
 
 1.Abalone Dataset
@@ -32,6 +39,7 @@ http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
+## Algorithms Used (from sikit-learn library)
 The following Machine Learning Algorithms have been implemented on them: 
 
 1.K-Nearest Neighbors 
