@@ -1,3 +1,5 @@
+# Principle Component Analysis
+
 The given file aims to implement the PCA or Principal Component Analysis algorithm from scratch. PCA is a dimensionality reduction algorithm which is used to convert a dataset of given dimensions into a dataset of lower dimensions.
 
 The dimensionality reduction is being performed for a given dataset for the following:
